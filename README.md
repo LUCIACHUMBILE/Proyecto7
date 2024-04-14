@@ -1,0 +1,1 @@
+El proyecto implica analizar datos de viajes compartidos para comprender las preferencias de los pasajeros y el impacto de factores externos, como el clima, en la frecuencia de los viajes. Se realizará un análisis de datos de competidores y se probará una hipótesis sobre el efecto del clima en los viajes.
